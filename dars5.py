@@ -1,4 +1,4 @@
-#0-dars. Sonlar 
+#05-dars. Sonlar 
 # Sana : 07.08.2025
 # Muallif: Shoxjahon Tuymurodov
 
