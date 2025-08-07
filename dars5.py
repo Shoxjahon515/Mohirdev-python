@@ -33,8 +33,40 @@
 # xabar = ism + " " + str(yosh) + " yoshda"
 # print(xabar) 
 
-t_yil = int(input("Tug'ilgan yilingizni kiriting: "))
-yosh = 2025 - t_yil
-print("Siz", yosh, "yoshda ekansiz.")
+# t_yil = int(input("Tug'ilgan yilingizni kiriting: "))
+# yosh = 2025 - t_yil
+# print("Siz", yosh, "yoshda ekansiz.")
 
-temp = 36.6
+# temp = 36.6
+
+# a = int("10")
+# b = float("10")
+# temp = str(36.6)
+
+# print(type(a))
+# print(type(b))
+# print(type(temp))
+
+# x = int(input("Istalgan soningizni kiriting:\n>>>"))
+# print(x, "ning kvadrati:", x**2, " ga teng.")
+# print(x, "ning kubi:", x**3, " ga teng.")
+
+# yosh = int(input("Yoshingiz nechchida?\n>>>"))
+# yil = 2025 - yosh
+# print("Siz", yil, "yilda tug'ilgansiz.")
+
+# a = int(input("Birinchi sonni kiriting:\n>>>"))
+# b = int(input("Ikkinchi sonni kiriting:\n>>>"))
+# c = a + b
+# d = a - b
+# e = a * b
+# f = a / b
+# print("Ikkala sonning yig'indisi:", c)
+# print("Ikkala sonning ayirmasi:", d)
+# print("Ikkala sonning ko'paytmasi:", e)
+# print("Ikkala sonning bo'linmasi:", f)
+
+# print(f"{a}+{b}=", a+b)
+# print(f"{a}-{b}=", a-b)
+# print(f"{a}x{b}=", a*b)
+# print(f"{a}/{b}=", a/b)
