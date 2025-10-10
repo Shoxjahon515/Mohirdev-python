@@ -53,3 +53,45 @@
 #     print('x>y')
 # else:
 #      print('x<y')
+
+# Amaliyot
+
+# avtomobillar = ['toyota', 'mazda', 'hyundai', 'gm', 'kia']
+# for avtomobil in avtomobillar:
+#   if avtomobil=='gm':
+#     print(avtomobil.upper())
+#   else:
+#     print(avtomobil.title())
+
+# avtomobillar = ['toyota', 'mazda', 'hyundai', 'gm', 'kia']
+# for avtomobil in avtomobillar:
+#   if avtomobil !='gm':
+#     print(avtomobil.upper())
+#   else:
+#     print(avtomobil.title())
+
+# login = input("Login kiriting: ")
+# if login.lower() == 'admin':
+#   print("Xush kelibsiz Admin, foydalanuvchilar ro'yxatini ko'rasizmi?")
+# else:
+#   print(f"Xush kelibsiz {login.title()}!")
+
+# x = int(input("Birinchi sonni kiriting: "))
+# y = int(input("Ikkinchi sonni kiriting:"))
+
+# if x == y:
+#     print(f"Sonlar teng: {x}={y}")
+# else: 
+#     print("Sonlar bir biriga teng emas")
+
+# son = float(input("Istalgan son kiriting:"))
+# if son<0:
+#     print("Son manfiy")
+# else: 
+#     print("Son musbat")
+
+# son = float(input('Istalgan son kiriting: '))
+# if son>0:
+#     print(son**(1/2)) 
+# else: 
+#     print('Musbat son kiriting')
